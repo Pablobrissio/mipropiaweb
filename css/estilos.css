@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+.titulos{
+    color: rgb(52, 212, 122);
+    font-family: 'Anton', sans-serif;
+}
+
+.texto{
+    font-family: 'Dosis', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+}
+
+.grid{
+    display: flex;
+    flex-direction: row;
+}
+
+.lado1{
+    color: white;
+    background-color: rgb(114, 93, 209);
+    text-align: center;
+    border-radius: 10px;
+    font-size: xx-large;
+    width: 120%;
+    height: 2cm;
+}
+
+.lado2{
+    color: white;
+    background-color: rgb(226, 126, 12);
+    text-align: center;
+    border-radius: 10px;
+    font-size: xx-large;
+    width: 60%;
+    height: 2cm;
+}
+
+.txtfinal{
+    color: rgb(52, 212, 122);
+    font-size: x-large;
+    text-align: center;
+}
